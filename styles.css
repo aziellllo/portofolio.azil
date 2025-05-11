@@ -139,6 +139,7 @@ header {
   width: 20px; /* Ukuran lebar ikon */
   height: auto; /* Ukuran tinggi ikon, agar proporsional */
   vertical-align: middle; /* Menyelaraskan ikon dengan teks */
+  align-items: left;
   margin-right: 5px; /* Jarak antara ikon dan teks */
 }
 
